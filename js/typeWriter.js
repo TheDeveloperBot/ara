@@ -1,6 +1,6 @@
 
 let i = 0;
-let text1 = "test";
+let text1 = "This is the end of us";
 let text2 = "Today is the Big Day."
 let speed = 100;
 
