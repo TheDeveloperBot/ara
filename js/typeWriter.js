@@ -1,6 +1,6 @@
 
 let i = 0;
-let text1 = "Hey! Miss Qiu.";
+let text1 = "I can’t believe a girl like you exists and that I’m lucky enough to have found her.";
 let text2 = "Today is the Big Day."
 let speed = 100;
 
