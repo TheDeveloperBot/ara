@@ -1,6 +1,6 @@
 
 let i = 0;
-let text1 = "I can’t believe a girl like you exists and that I’m lucky enough to have found her.";
+let text1 = "Hi there, miss Rania! I know this might be cheesy because I never actually speak to you like this but I guess there's always a first for everything. When I think about you, I smile. When I dream about you, I sleep better. I love our talks, your awkward sense of humor and your soft kisses on the forehead. The fact that you would fight a bear for me is astounding and your ability to make me feel safe and loved takes a weight from my shoulders that I didn’t even know was there. Thank you so much Chris!";
 let text2 = "Today is the Big Day."
 let speed = 100;
 
